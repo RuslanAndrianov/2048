@@ -1,4 +1,4 @@
-# 2048-Yura-Koch-Youtube-video
+# 2048
 
 https://www.youtube.com/watch?v=Mhb910JSD4U
 
